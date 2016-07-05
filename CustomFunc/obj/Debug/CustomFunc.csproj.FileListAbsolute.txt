@@ -1,0 +1,16 @@
+c:\users\sarah\documents\visual studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\CustomFunc.dll
+c:\users\sarah\documents\visual studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\CustomFunc.pdb
+c:\users\sarah\documents\visual studio 2012\Projects\CustomFunc\CustomFunc\obj\Debug\CustomFunc.dll
+c:\users\sarah\documents\visual studio 2012\Projects\CustomFunc\CustomFunc\obj\Debug\CustomFunc.pdb
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\obj\Debug\CustomFunc.csprojResolveAssemblyReference.cache
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\Telerik.TestStudio.Shared.dll
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\Autofac.dll
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\SuperWebSocket.dll
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\WebSocket4Net.dll
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\System.Web.Http.dll
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\SuperSocket.Common.dll
+C:\Users\sarah\Documents\Visual Studio 2012\Projects\CustomFunc\CustomFunc\bin\Debug\log4net.dll
